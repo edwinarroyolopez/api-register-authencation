@@ -14,3 +14,11 @@
 
 # Graphql
 express-graphql graphql graphql-tag graphql-tools cors
+
+
+## sources
+https://stackoverflow.com/questions/39746718/mongodb-node-js-role-based-access-control-rbac
+
+
+
+
